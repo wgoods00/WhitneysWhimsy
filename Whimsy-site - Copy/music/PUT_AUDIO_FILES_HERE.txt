@@ -1,0 +1,1 @@
+Copy your MP3 or WAV files into this folder, then add their filenames to ../tracks.js. See ../README.md.
